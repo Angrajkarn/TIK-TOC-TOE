@@ -20,7 +20,7 @@ Clone the repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/AngrajKarn/tic-tac-toe.git
 Open the index.html file in your web browser.
 
 Enjoy playing Tic Tac Toe!
