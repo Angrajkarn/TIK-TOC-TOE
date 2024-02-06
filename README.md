@@ -30,3 +30,7 @@ Include screenshots or gifs showcasing the gameplay or important features of you
 
 Contribution
 If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Contributions are welcome!
+![WhatsApp Image 2024-02-06 at 11 57 50_fcb587c7](https://github.com/Angrajkarn/TIK-TOC-TOE/assets/49620060/083f278d-1158-40f2-8d6e-991479bd9f06)
+![WhatsApp Image 2024-02-06 at 11 57 51_8bacd96e](https://github.com/Angrajkarn/TIK-TOC-TOE/assets/49620060/068e1f20-c27d-4b82-9aa8-8c21e51718fe)
+![WhatsApp Image 2024-02-06 at 11 57 51_4ef3816a](https://github.com/Angrajkarn/TIK-TOC-TOE/assets/49620060/29071e6f-d464-44a9-85cc-c361422886a3)
+
